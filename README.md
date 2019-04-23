@@ -1,1 +1,1 @@
-This repository is deprecated, please use [armadietto](https://github.com/remotestorage/armadietto)
+This project has been moved to [remotestorage/armadietto](https://github.com/remotestorage/armadietto)
